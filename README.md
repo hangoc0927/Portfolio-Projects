@@ -1,5 +1,5 @@
 # Data Analyst Portfolio Projects Repository
-This Repository will hold all of the code, queries and documentations from my learning jourey to become a Data Analyst.
+This Repository will hold all of the code, queries and documentations from my learning journey to become a Data Analyst.
 
 It has showcased what I'm working on include Exel, SQL, Python, Tableau, Power BI.
 
