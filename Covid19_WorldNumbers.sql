@@ -1,3 +1,13 @@
+/*
+Link of Dataset: https://ourworldindata.org/covid-deaths
+Records start date: 28 Jan 2020
+Records end date (download date): 25 October 2021
+Programming language: SQL Server
+
+The project is inspired by Alex The Analyst. In this project, I learned to use JOIN, Common Table Expression, GROUP BY, Temporary Table, CREATE VIEW.
+*/
+
+
 Select *
 From PortfolioProjects..CovidDeaths
 Where continent is not null 
